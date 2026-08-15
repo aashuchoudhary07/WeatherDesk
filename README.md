@@ -27,7 +27,7 @@ A modern and responsive weather application that provides real-time weather info
 
 ## Screenshot
 
-![weatherdesk screenshot](screenshot.png)
+![weatherdesk screenshot](screenshot.jpg)
 
 ## 📸 Preview
 
