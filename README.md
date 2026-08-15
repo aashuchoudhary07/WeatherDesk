@@ -25,6 +25,10 @@ A modern and responsive weather application that provides real-time weather info
 
 [WeatherDesk](https://weather-desk-byaashu.netlify.app/)
 
+## Screenshot
+
+![weatherdesk screenshot](screenshot.png)
+
 ## 📸 Preview
 
 WeatherDesk provides a clean and simple interface to quickly check current weather conditions and forecast information.
